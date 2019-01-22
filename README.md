@@ -24,7 +24,7 @@ To generate a Rails application using this template, pass the `-m` option to `ra
 ```
 rails new app_name \
   -d postgresql \
-  -m https://raw.githubusercontent.com/KumarPradeep1/react-rails-starter-app/master/template.rb
+  -m https://raw.githubusercontent.com/velpradeep/react-rails-template-app/master/template.rb
 ```
 
 Above app_name is user specific. This generates the application and it can be launched without additional steps
